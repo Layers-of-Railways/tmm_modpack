@@ -1,0 +1,17 @@
+name = "snr_tmm"
+author = "Slimeist"
+version = "1.1.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "360d41d5243aac141403eee6ddef0cc8f41e9b35088bbe62018a7c5761a21391"
+
+[versions]
+fabric = "0.17.3"
+minecraft = "1.21.1"
+
+[options]
+acceptable-game-versions = ["1.21", "1.21.1"]
+datapack-folder = "config/paxi/datapacks"

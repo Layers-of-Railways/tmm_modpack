@@ -1,0 +1,114 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/cardinal-components-api.properties"
+hash = "8d3ae8c9240fc60475fbb98a87b7e2e0874703b173a449fb346fb0857ada7bba"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "47eb91a5e9cf0ed35ef0677d4777f6a6c4a40be6f903b97f640b26c584d21542"
+
+[[files]]
+file = "config/invmove.json"
+hash = "d359c792256c9c0acc1f31a6d2cb77059667c5a3fd92537a3089b7778eeb16e7"
+
+[[files]]
+file = "config/invmove/unrecognized.json"
+hash = "7e001a1d16a7cbbabaa16ddf4b5010c469e2a73323659a54592b483c06d5e1de"
+
+[[files]]
+file = "config/invmove/vanilla.json"
+hash = "d1151ee0b7aa54a262ade99ba45014b32bf8774a90040f0b65c733d9ab9e2258"
+
+[[files]]
+file = "config/sound_physics_remastered/allowed_sounds.properties"
+hash = "4d492361fe7ee8b58a8ef93ef2b5d75f67b13e576e6c2faeb1df95655b32cff0"
+
+[[files]]
+file = "config/sound_physics_remastered/occlusion.properties"
+hash = "ebbac45fbb3ca01487b85ffee9601b213b71896e6606fb297bcb0f3ac9c30ffb"
+
+[[files]]
+file = "config/sound_physics_remastered/reflectivity.properties"
+hash = "e26b00784bb6239988759ed1a64551b9f301dc33c5a855d91e976ee4bf40ac8a"
+
+[[files]]
+file = "config/sound_physics_remastered/soundphysics.properties"
+hash = "068ccd6b0985f7ba643fb7ccd6e8149378b4679891a90aa2c787f8ba278330c6"
+
+[[files]]
+file = "config/voicechat/category-volumes.properties"
+hash = "94c1c4f70e5b995fbd71e86d4fa646030437fecae0685875b560a55fbd0d0e56"
+
+[[files]]
+file = "config/voicechat/player-volumes.properties"
+hash = "0332261861a5ace96f503e85b0d48a8df74ea6c2f3545cd229543a6afb55ad96"
+
+[[files]]
+file = "config/voicechat/translations.properties"
+hash = "693643b1d393cbb3ea7f062afc4474fcd66e4036c4f8d7c056434979cbf512d1"
+
+[[files]]
+file = "config/yosbr/modmenu.json"
+hash = "16d20c40cc6c114faff5493b561873fe160a65047720bc19fb3a3dd64aa67f3b"
+
+[[files]]
+file = "config/yosbr/voicechat/voicechat-client.properties"
+hash = "09deef56b0671e9487c6dd7f771e3bbc65d9470358a3d9ba843e0c8e07ca77ef"
+
+[[files]]
+file = "config/yosbr/voicechat/voicechat-server.properties"
+hash = "08d89443d88effa3c452946e99c29a139a7da62a85d37eeb29b93185236135e8"
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "cfc2c53b0d3cee953b423fe9abf210d87281d5bf774dab20cf03abe6224a9883"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "38362cd77cda6609ad8d9476bf13ae7481bad8d407a7fbdb8b317a64abc614d6"
+metafile = true
+
+[[files]]
+file = "mods/invmove.pw.toml"
+hash = "9ce2d746c66b4642a66833812a4a67bf24c80b11cea2a9e851761774c44d6e3b"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "87f32c96066eb295c234effb49f6f5cbd5956316a3a750a3989cfb645b3fd397"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "321106b9a028cb1aaff6a8f3dc138ca25abc6128c61ce28bb674b45ad8d39b64"
+metafile = true
+
+[[files]]
+file = "mods/ratatouille.pw.toml"
+hash = "074fa664179901d1d5f38a1252f3a520fcde297a79eb69bf92e39821684c4941"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "58b1fe9ea11a709cbc918bb969bed3312ba9cc07b4018a6f0de031c12fad78f8"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "8ad6c77bac58ac498d14ca3bc3a1e502bfb0ae2ecbc55d31685058b14e450eb9"
+metafile = true
+
+[[files]]
+file = "mods/trainmurdermystery-1.1.1-1.21.1.jar"
+hash = "b6f2395613a4b80f1c035ce76de1a3f7413fab291592a95e9c699332a70a0f13"
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "11f5dcc17f9628867eafb30708e6872a569ff0eb8888d4e4d99cf1af073057b5"
+metafile = true
+
+[[files]]
+file = "unsup.ini"
+hash = "1e3343ad348e5c81d2f07da58a523e258abe4c6b4e28a60444bc32bcacb61eb3"

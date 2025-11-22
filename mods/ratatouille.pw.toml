@@ -1,0 +1,13 @@
+name = "Ratatouille"
+filename = "ratatouille-1.4.1-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yufdeaJg/versions/ZSIRT4iK/ratatouille-1.4.1-1.21.1.jar"
+hash-format = "sha1"
+hash = "b0b97bedf93bfa04b9fde42d4365a534fd95fd20"
+
+[update]
+[update.modrinth]
+mod-id = "yufdeaJg"
+version = "ZSIRT4iK"
