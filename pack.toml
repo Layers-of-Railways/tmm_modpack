@@ -1,12 +1,12 @@
 name = "snr_tmm"
 author = "Slimeist"
-version = "1.1.1"
+version = "1.1.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "360d41d5243aac141403eee6ddef0cc8f41e9b35088bbe62018a7c5761a21391"
+hash = "e48aa56b6897083a10925b66bf0346c38df18b5339ed8504749529cb13e9a3f5"
 
 [versions]
 fabric = "0.17.3"
