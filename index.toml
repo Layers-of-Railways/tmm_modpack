@@ -81,6 +81,11 @@ hash = "9ce2d746c66b4642a66833812a4a67bf24c80b11cea2a9e851761774c44d6e3b"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "012ec092803f672ce6f884dfa400497e2e4e8063a3af4e3cdee911dea10ab2c9"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "87f32c96066eb295c234effb49f6f5cbd5956316a3a750a3989cfb645b3fd397"
 metafile = true
@@ -106,6 +111,11 @@ hash = "c1e21e436f9bcb2dd1275063c79288d91b9e30bdca148407c1eb913c3f409d94"
 metafile = true
 
 [[files]]
+file = "mods/sodium.pw.toml"
+hash = "d6e22a99e0b73a91cfd528aed964bc8acb001188e76804406b998a19f645fbe1"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "8ad6c77bac58ac498d14ca3bc3a1e502bfb0ae2ecbc55d31685058b14e450eb9"
 metafile = true
@@ -122,6 +132,16 @@ metafile = true
 [[files]]
 file = "servers.dat"
 hash = "b7f40b27b0f218188cb4c9394fe852423551c78bcdc3be88231e52f8af87b174"
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "f18e6196d79be05795c41658af6ea9ad77457bb65058bdd65a0ef5d3c6f30ca0"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "a0fc045008eab042b01f71df6ab896bdb65c907182716b094cc7932d1dad42e0"
+metafile = true
 
 [[files]]
 file = "unsup.ini"
