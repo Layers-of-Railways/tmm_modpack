@@ -53,6 +53,10 @@ file = "config/yosbr/modmenu.json"
 hash = "16d20c40cc6c114faff5493b561873fe160a65047720bc19fb3a3dd64aa67f3b"
 
 [[files]]
+file = "config/yosbr/trainmurdermystery.json"
+hash = "a689b4bbd58f4ef9e8b8431aa14b597c1faf75dc072e0aab2dad62cf64c66c7b"
+
+[[files]]
 file = "config/yosbr/voicechat/voicechat-client.properties"
 hash = "09deef56b0671e9487c6dd7f771e3bbc65d9470358a3d9ba843e0c8e07ca77ef"
 
