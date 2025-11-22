@@ -71,6 +71,11 @@ hash = "38362cd77cda6609ad8d9476bf13ae7481bad8d407a7fbdb8b317a64abc614d6"
 metafile = true
 
 [[files]]
+file = "mods/figura.pw.toml"
+hash = "fafd1147008aa0cc6444317ff2644b11ab54ba756c00843da6edf92da638e222"
+metafile = true
+
+[[files]]
 file = "mods/invmove.pw.toml"
 hash = "9ce2d746c66b4642a66833812a4a67bf24c80b11cea2a9e851761774c44d6e3b"
 metafile = true
@@ -93,6 +98,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "58b1fe9ea11a709cbc918bb969bed3312ba9cc07b4018a6f0de031c12fad78f8"
+metafile = true
+
+[[files]]
+file = "mods/skinshuffle.pw.toml"
+hash = "c1e21e436f9bcb2dd1275063c79288d91b9e30bdca148407c1eb913c3f409d94"
 metafile = true
 
 [[files]]
