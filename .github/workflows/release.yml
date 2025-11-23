@@ -36,10 +36,10 @@ jobs:
             - name: Export Prism Pack
               run: ./scripts/prism.sh
 
-#            - name: Upload To Modrinth
-#              env:
-#                  MODRINTH_TOKEN: ${{ secrets.MODRINTH_TOKEN }}
-#              run: ./scripts/upload.sh
+            - name: Upload To Modrinth
+              env:
+                  MODRINTH_TOKEN: ${{ secrets.MODRINTH_TOKEN }}
+              run: ./scripts/upload.sh
 
             - name: Capture Prism Pack & .mrpack
               uses: actions/upload-artifact@v4

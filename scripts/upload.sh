@@ -20,7 +20,7 @@ MODRINTH_DATA=$(cat <<EOF
 	"version_type": "release",
 	"loaders": ["fabric"],
 	"featured": false,
-	"project_id": "loremIpsum",
+	"project_id": "rbVDAXSp",
 	"file_parts": [
 		"mrpack"
 	],
