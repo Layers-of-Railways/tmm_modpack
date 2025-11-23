@@ -90,6 +90,11 @@ hash = "012ec092803f672ce6f884dfa400497e2e4e8063a3af4e3cdee911dea10ab2c9"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "9236940eafe8e97819f093c3c77236ee47de3b7f97a17f3fcf31114034962611"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "87f32c96066eb295c234effb49f6f5cbd5956316a3a750a3989cfb645b3fd397"
 metafile = true
@@ -125,8 +130,8 @@ hash = "8ad6c77bac58ac498d14ca3bc3a1e502bfb0ae2ecbc55d31685058b14e450eb9"
 metafile = true
 
 [[files]]
-file = "mods/tmm_patch-1.0.1.jar"
-hash = "570f3c2470bab554ddd8780ec2aa73c17dadc8970838c4d980ab5894bdceac72"
+file = "mods/tmm_patch-1.1.2.jar"
+hash = "e74b4a56513cd7800572d4826b3169b5bfa066281c070c56244e07b813dc7aba"
 
 [[files]]
 file = "mods/trainmurdermystery-1.1.1-1.21.1.jar"
