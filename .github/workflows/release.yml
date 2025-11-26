@@ -20,7 +20,7 @@ jobs:
                 echo "Version: PACK_VERSION"
                 if [[ "$PACK_VERSION" == *"-server" ]]; then
                   echo "Server version detected, exiting."
-                  exit 0
+                  exit 1
                 fi
 
             - name: Setup Go
