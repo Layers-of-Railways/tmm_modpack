@@ -1,12 +1,12 @@
 name = "SnR Harpy Express"
 author = "Slimeist"
-version = "1.1.3"
+version = "1.1.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "68a130f962c26e4303367c94e5727ecd30c977879f64d73afe685faf925edf7d"
+hash = "9ed66ba448fb9f02b6b84a2ccdd03a4b8770c6f5f7ab6e19a727a3408f21f635"
 
 [versions]
 fabric = "0.17.3"

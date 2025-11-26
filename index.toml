@@ -130,8 +130,9 @@ hash = "8ad6c77bac58ac498d14ca3bc3a1e502bfb0ae2ecbc55d31685058b14e450eb9"
 metafile = true
 
 [[files]]
-file = "mods/tmm_patch-1.1.2.jar"
-hash = "e74b4a56513cd7800572d4826b3169b5bfa066281c070c56244e07b813dc7aba"
+file = "mods/tmm-patch.pw.toml"
+hash = "16d8fe47407742ebbf19f77cfa597cd6451498d96554898aeb3fab961947da72"
+metafile = true
 
 [[files]]
 file = "mods/trainmurdermystery-1.1.1-1.21.1.jar"
