@@ -1,7 +1,7 @@
 name = "tmm_patch"
-filename = "tmm_patch-1.1.4+mc1.21.1.jar"
+filename = "tmm_patch-1.1.5+mc1.21.1.jar"
 
 [download]
-url = "https://github.com/Layers-of-Railways/TMM-Patch/releases/download/v1.1.4/tmm_patch-1.1.4+mc1.21.1.jar"
+url = "https://github.com/Layers-of-Railways/TMM-Patch/releases/download/v1.1.5/tmm_patch-1.1.5+mc1.21.1.jar"
 hash-format = "sha256"
-hash = "3bd8b330565c2c901390626550a1e922bc619bf9a432bd47f577165a912c875f"
+hash = "98ece3d5f4875c67143ca487303e62b9f5067b33e0319a02f700802d9bc57ae1"

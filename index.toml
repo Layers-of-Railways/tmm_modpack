@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/tmm-patch.pw.toml"
-hash = "27c7828905351cebbc2de42ddf2eebdeac198920cc718bc9901400575982d3af"
+hash = "3913295472446fdd6b68853bb6ca741983c84f6b1516fae5e01cf82aa5fe2890"
 metafile = true
 
 [[files]]
